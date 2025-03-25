@@ -1,13 +1,13 @@
 //auto presence update
-global.bankname = "MONIEPOINT"
+global.bankname = "LORD~SKYH"
 
-global.banknumber = "8133729715"
+global.banknumber = "917973611393"
 
-global.bankowner = "FADARE"
+global.bankowner = "ASMAAN 🖤"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.wlcm = true
+global.wlcm = false
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
